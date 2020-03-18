@@ -1,0 +1,4 @@
+﻿  String.cpp
+C:\WorkSpace\LearnSTL\LearnSTL\String.cpp(58,20): warning C4018:  “<”: 有符号/无符号不匹配
+C:\WorkSpace\LearnSTL\LearnSTL\String.cpp(65,20): warning C4018:  “<”: 有符号/无符号不匹配
+  LearnSTL.vcxproj -> C:\WorkSpace\LearnSTL\Debug\LearnSTL.exe

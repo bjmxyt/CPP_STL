@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LearnSTL.cpp">
+    <ClCompile Include="String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWorld.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
